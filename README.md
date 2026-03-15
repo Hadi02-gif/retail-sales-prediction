@@ -47,14 +47,17 @@ The Colab notebook covers the following steps:
 
 ## 📊 Visual Highlight
 ![Model Evaluation Using Visualization](MLR_actual_vs_predicted.png)
+
 *Example of step 3: Multiple Linear Regression: Actual vs. Predicted.*
 
 ## 📊 Visual Highlight
 ![Model Evaluation Using Visualization](MLR_residuals_distribution.png)
+
 *Example of step 3: Multiple Linear Regression: Residuals Distribution.*
 
 ## 📊 Visual Highlight
 ![Polynomial Regression and Pipeline](PR_fit_(degree2).png)
+
 *Example of step 4: Polynomial Regression Fit (Degree 2).*
 
 Feel free to explore the code, modify the models, or extend the analysis!
