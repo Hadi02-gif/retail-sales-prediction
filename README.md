@@ -45,6 +45,18 @@ The Colab notebook covers the following steps:
 2.  Ensure you have all the necessary Python libraries installed (e.g., `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`). You can install them using `!pip install <library_name>` in Colab.
 3.  Run all cells in the provided notebook (`<Model Development>.ipynb`).
 
+## 📊 Visual Highlight
+![Model Evaluation Using Visualization](MLR_actual_vs_predicted.png)
+*Example of step 3: Multiple Linear Regression: Actual vs. Predicted.*
+
+## 📊 Visual Highlight
+![Model Evaluation Using Visualization](MLR_residuals_distribution.png)
+*Example of step 3: Multiple Linear Regression: Residuals Distribution.*
+
+## 📊 Visual Highlight
+![Polynomial Regression and Pipeline](PR_fit_(degree2).png)
+*Example of step 4: Polynomial Regression Fit (Degree 2).*
+
 Feel free to explore the code, modify the models, or extend the analysis!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/retail-sales-prediction/blob/main/Model%20Development.ipynb)
