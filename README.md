@@ -56,7 +56,7 @@ The Colab notebook covers the following steps:
 *Example of step 3: Multiple Linear Regression: Residuals Distribution.*
 
 ## 📊 Visual Highlight
-![Polynomial Regression and Pipeline](PR_fit_(degree2).png)
+![Model Evaluation Using Visualization](PR_fit_(degree 2).png)
 
 *Example of step 4: Polynomial Regression Fit (Degree 2).*
 
